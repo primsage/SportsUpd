@@ -1,0 +1,17 @@
+#deviceready h2{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+.default-match-block{
+    padding: 10px;
+}
+.bold{
+    font-weight: bold;
+}
+.live-icon{
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+}
